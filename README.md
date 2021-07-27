@@ -2,7 +2,7 @@
 
 |     | MyApi NodeJS With Express, Typescript and Functional            |
 | --- | --------------------------------------------------------------- |
-| ⚡️ | **Launch your api instantly** watching changes with live-reload |
+| ⚡️ | **NodeJS Rest API** watching changes with live-reload |
 
 ## Installation 📚
 
